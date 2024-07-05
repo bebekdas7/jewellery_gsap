@@ -185,7 +185,9 @@ const Home = () => {
             <button>COLLECTION</button>
           </div>
         </div>
-        <div className="neck-box d-flex flex-column align-items-start justify-content-center"></div>
+        <div className="neck-box d-flex flex-column align-items-start justify-content-center">
+          <img src="images/shivi1.png" alt="" />
+        </div>
       </section>
 
       {/* -----------------Earring try on----------------- */}
