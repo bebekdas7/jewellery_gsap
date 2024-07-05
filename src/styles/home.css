@@ -207,7 +207,7 @@
   position: absolute;
   top: 32%;
   left: 49.5%;
-  background: url(images/jhumka2.png);
+  background: url(/images/jhumka2.png);
   background-repeat: no-repeat;
   background-size: cover;
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s;
@@ -235,7 +235,7 @@
   position: absolute;
   top: 38%;
   left: 72%;
-  background: url(images/ear2.png);
+  background: url(/images/ear2.png);
   background-repeat: no-repeat;
   background-size: cover;
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s;
@@ -263,7 +263,7 @@
   position: absolute;
   top: 38%;
   left: 94.5%;
-  background: url(images/ear3.png);
+  background: url(/images/ear3.png);
   background-repeat: no-repeat;
   background-size: cover;
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s;
